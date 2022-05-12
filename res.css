@@ -1,0 +1,261 @@
+*{
+	margin:0;
+	background-color:#A0A0A0;
+}
+.res{
+	margin:22px 380px;
+	height:786px;
+	width:640px;
+	background-color:#101010;
+	border-radius:25px;
+	box-shadow:0px 10px 30px 5px rgba(0,0,0,.75);
+}
+.res .image{
+	margin:15px;
+	width:14%;
+	border-radius:15px;
+	background-color:#101010;
+	
+}
+
+.res .image a{
+	background-color:#101010;
+}
+
+.res .image a img{
+	position:reltive;
+	bottom:196px;
+	border-radius:90px;
+	margin:40px 45px;
+	border:3px solid #EBEAEA;
+}
+
+.res .name{
+	width:40%;
+	background-color:#101010;
+	color:#F8F8F8;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:28px;
+	font-weight:100em;
+	position:relative;
+	left:260px;
+	bottom:144px;
+	letter-spacing:2.6px;
+	line-height:25px;
+
+}
+a{
+	text-decoration:none;
+	color:white;
+	background-color:#101010;
+}
+
+.contact{
+	background-color:#101010;
+	width:35%;
+	position:relative;
+	left:10px;
+	bottom:49px;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:12px;
+	line-height:22px;
+}
+.contact h4{
+	background-color:#101010;
+	color:#BEBEBE;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:15px;
+	text-align:center;
+	position:relative;
+	bottom:12px;
+	left:-3px;
+}
+
+.contact pre{
+	background-color:#101010;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	text-align:center;
+	position:relative;
+	bottom:6px;
+}
+
+.contact span{
+	background-color:#101010;
+	color:white;
+	text-align:center;
+}
+
+
+.skill{
+	background-color:#101010;
+	width:35%;
+	position:relative;
+	left:10px;
+	bottom:-7px;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:12px;
+}
+.skill h4{
+	background-color:#101010;
+	color:#BEBEBE;
+	font-family:Tahoma,Helvetica,Arial;
+	text-align:center;
+	font-size:15px;
+	letter-spacing:2px;
+}
+
+.skill pre{
+	background-color:#101010;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	text-align:center;
+	position:relative;
+	bottom:-14px;
+	left:-10px;
+	line-height:21px;
+	
+}
+
+.skill span{
+	background-color:#101010;
+	color:white;
+	text-shadow:
+    0 0 1.2px #fff;
+}
+
+.vertical{
+	border-left:.55px solid white;
+	height:720px;
+	background-color:white;
+	position:relative;
+	left:227px;
+	bottom:903px;
+	width:.1%;
+	box-shadow:
+    0 0 2.5px #fff;
+}
+
+.ex{
+	width:50%;
+	position:relative;
+	left:254px;
+	bottom:350px;
+	background-color:#101010;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+}
+
+.ex h4{
+	background-color:#101010;
+	color:#BEBEBE;
+	font-family:Tahoma,Helvetica,Arial;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:2px;
+	position:relative;
+	bottom:15px;
+	left:-87px;
+	text-shadow:
+    0 0 1.34px #fff;
+}
+
+.ex pre{
+	width:30%;
+	background-color:#101010;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:14px;
+	letter-spacing:1px;
+	line-height:19px;
+	position:relative;
+	left:30px;
+	bottom:-10px;
+}
+
+.ed{
+	width:49%;
+	background-color:#101010;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	position:relative;
+	left:254px;
+	bottom:270px;
+}
+
+.ed h4{
+	background-color:#101010;
+	color:#BEBEBE;
+	font-family:Tahoma,Helvetica,Arial;
+	text-align:center;
+	font-size:18px;
+	letter-spacing:2px;
+	position:relative;
+	left:-87px;
+	bottom:15px;
+	text-shadow:
+    0 0 1.34px #fff;
+}
+
+.ed table{
+	border-collapse:collapse;
+	border-radius:6px;
+	width:89%;
+	background-color:#595959;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:12px;
+	letter-spacing:1px;
+	line-height:19px;
+	position:relative;
+	left:30px;
+	bottom:-9px;
+	overflow:hidden;
+	box-shadow:0px 10px 10px 5px rgba(0,0,0,.15);
+}
+.ed th{
+	background-color:#141414;
+	color:#BEBEBE;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:12px;
+	letter-spacing:1px;
+}
+
+.ed h5{
+	width:79%;
+	background-color:#101010;
+	color:#d8d8d8;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:15px;
+	letter-spacing:1px;
+	line-height:25px;
+	position:relative;
+	left:30px;
+	bottom:3px;
+	text-shadow:
+    0 0 1.2px #fff;
+}
+
+.ed td{
+	background-color:#202020;
+	color:white;
+	font-family:Tahoma,Helvetica,Arial;
+	font-size:12px;
+	letter-spacing:1px;
+	text-align:center;
+}
+
+.ed sup{
+	background-color:#202020;
+	color:white;
+}
+hr{
+	position:relative;
+	bottom:10px;
+    box-shadow:
+    0 0 1.5px #fff;
+}
+
+
+
+
